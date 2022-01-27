@@ -6,6 +6,7 @@ import CommentDetail from './CommentDetail';
 import ApprovalCard from './ApprovalCard';
 
 // this is test after so long
+//this is second commit from itellij
 
 //create react component
 const App=()=>{
